@@ -31,7 +31,7 @@ A full-stack web application built to streamline the operations of ration shops,
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 
 
